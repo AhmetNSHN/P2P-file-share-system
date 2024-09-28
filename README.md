@@ -82,23 +82,3 @@ download <FILENAME>
 ```
 
 The file will be saved to the shared directory specified when starting the peer node.
-
-## Limitations
-
-- This project is meant for educational purposes and should not be used in production environments.
-- The system may not handle very large networks efficiently.
-- Security features like encryption and authentication are not implemented.
-
-## Contributing
-
-If you would like to contribute to this project, feel free to fork the repository and open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions, suggestions, or collaboration, reach out to the project owner:
-
-- **GitHub:** [AhmetNSHN](https://github.com/AhmetNSHN)
